@@ -1,0 +1,25 @@
+{
+  "name": "spicy-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "spicy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup --config"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MR-0/spicy-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MR-0/spicy-js/issues"
+  },
+  "homepage": "https://github.com/MR-0/spicy-js#readme",
+  "devDependencies": {
+    "rollup": "^2.54.0",
+    "rollup-plugin-terser": "^7.0.2"
+  }
+}

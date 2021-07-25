@@ -4,7 +4,7 @@ export default {
   input: 'src/index.js',
   output: {
     file: 'dist/spicy.min.js',
-    format: 'iife',
+    format: 'es',
     plugins: [terser()],
   },
 };
